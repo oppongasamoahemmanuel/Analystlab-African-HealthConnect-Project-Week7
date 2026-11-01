@@ -1,0 +1,3 @@
+This repository contains my Week 6 submission for the Data Analytics Track of the AnalystLab Africa Experience Lab Internship:
+the HealthConnect Rwanda Healthcare Analytics & Artificial Intelligence Transformation Project. It covers an advanced audited Excel Analysis and a Power BI dashboard built from the HealthConnect Rwanda datasets, with five report pages (Executive Overview, Patient Analytics, Clinical Analytics, Financial Analytics, and Operational Analytics).
+It also includes an Executive Business Intelligence Report and a presentation of the findings, flagged items and business recommendations for HealthConnect Rwanda’s leadership team.
