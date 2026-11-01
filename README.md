@@ -1,2 +1,2 @@
-# Analystlab-African-Fintrust-Project-Week 4 
-This repository covers Final Testing and validation for week 3 data analysis for all Excel,SQL, Python and Dashboard analysis and a final reporting and presentation of findings and business insights as a contribution for Data Analytics Track to FinTrust data solution
+# Analystlab-African-HealthConnect-Project-Week-6
+This covers a an Excel Analysis and Power BI dashboard built from the HealthConnect Rwanda datasets, with five Dashboard report pages (Executive Overview, Patient Analytics, Clinical Analytics, Financial Analytics, and Operational Analytics). It also includes an Executive Business Intelligence Report.
